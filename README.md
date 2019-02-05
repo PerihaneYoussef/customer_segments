@@ -1,4 +1,4 @@
-# Machine Learning Nanodegree
+# Machine Learning Nanodegree Udacity
 
 ## Unsupervised Learning project 3
 
